@@ -63,7 +63,7 @@ Execute the full workflow:
 @sql/test.sql
 ```
 
-## Example Output
+### Example Output
 
 ```csharp
 Borrowed book 1 by member 101
