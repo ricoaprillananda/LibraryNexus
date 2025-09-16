@@ -17,6 +17,7 @@ LibraryNexus is a PL/SQL system that unites books, members, and loans in one str
 
 ---
 
+```pgsql
 ## Project Structure
 LibraryNexus/
 ├── sql/
@@ -27,6 +28,7 @@ LibraryNexus/
 │   └── test.sql          # End-to-end test script
 ├── LICENSE               # MIT License
 └── README.md             # Project documentation
+```
 
 ## Quick Start
 
