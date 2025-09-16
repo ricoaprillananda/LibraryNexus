@@ -17,8 +17,10 @@ LibraryNexus is a PL/SQL system that unites books, members, and loans in one str
 
 ---
 
-```pgsql
+
 ## Project Structure
+
+```pgsql
 LibraryNexus/
 ├── sql/
 │   ├── tables.sql        # Schema definitions
